@@ -18,4 +18,4 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=coderseb&count_private=true&theme=tokyonight&showicons=true) -->
 
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coderseb&langs_count=5&count_private=true&theme=tokyonight)
+![Top Langs](https://git-stats-codersebs-projects.vercel.app/api/top-langs/?username=CoderSeb&langs_count=10&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=Less,Handlebars)
