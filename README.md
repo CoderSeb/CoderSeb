@@ -11,8 +11,9 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 **About Me:**
-- 👀 I’m interested in all things web development and coding!
+- 👀 I’m interested in all things development and coding!
 - 🎓 Bachelors degree in Computer Science from Linnaeus University in Kalmar, Sweden.
+- 💼 Application Specialist for a digital archiving system in healthcare.
 
 <hr />
 
